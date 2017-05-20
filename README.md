@@ -1,6 +1,6 @@
 # shpAndwkt
 Windows窗体应用程序：解析shp图层得到wkt信息，并将wkt存入SQLServer数据库，之后再次读取并还原为shp。
-说明：
+这是我的毕业设计课题，说明：
 1、软件版本：ArcGIS Engine10.1,SQL Server 2012,VS 2010,是基于VS2010进行二次开发的Windows窗体应用程序。
 2、准备实验数据：点、线和多边形的三个shp图层文件。
 全部功能：
